@@ -19,7 +19,7 @@
   "author": "Red Hat",
   "license": "MIT",
   "devDependencies": {
-    "@eslint/js": "^10.0.0",
+    "@eslint/js": "^10.0.1",
     "@redhat-actions/action-io-generator": "^1.6.0",
     "@types/node": "^26.6.6",
     "@types/semver": "^7.7.0",
